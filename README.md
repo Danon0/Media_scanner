@@ -1,12 +1,10 @@
 # Media Scanner
 ## Сборка
-
-```bash
 mkdir build && cd build
 cmake ..
 make
 
-## Запуск
+## Сборка
 ./media_scanner
 
 ## Настройка интервала и каталога
